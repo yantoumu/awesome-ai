@@ -129,6 +129,7 @@
 ### AI 视频
 
 - [PixVerse](https://pixverse.ai)：文生视频
+- [PVID](http://pvid.app/)：图生视频、文生视频、视频转视频，支持 Kling 3.0、Sora 2、Veo 3.1，新用户 100 免费积分
 - [绘影字幕](https://huiyingzimu.com)：AI 字幕、翻译、配音等
 - [万彩微影](https://www.animiz.cn/microvideo)：真人手绘视频、翻转文字视频、文章转视频等
 - [芦笋 AI 提词器](https://tcq.lusun.com)：AI 写稿、隐形提词效果、智能跟读等
